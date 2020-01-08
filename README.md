@@ -1,2 +1,6 @@
 # hello-world
-potato
+
+
+Hi, everyone!
+
+I'm Nataliia and I'd like to learn coding )
